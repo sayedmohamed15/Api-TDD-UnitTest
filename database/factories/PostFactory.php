@@ -15,3 +15,6 @@ $factory->define(Post::class, function (Faker $faker) {
         'author'=>$faker->name,
     ];
 });
+
+
+
